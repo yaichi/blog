@@ -22,6 +22,7 @@ git commit -m "$msg"
 echo
 echo -e "\033[0;32m2. 推送网站文件到 Github...\033[0m"
 echo
+git pull origin master
 git push origin master
 
 echo
@@ -34,6 +35,7 @@ echo -e "\033[0;32m 更新源码...\033[0m"
 echo
 git add .
 git commit -m 'update blog'
+git pull origin master
 git push origin master
 echo
 echo -e "\033[0;32m Done \033[0m"
