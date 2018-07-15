@@ -10,8 +10,8 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  staticurl ="http://pburq0mjh.bkt.clouddn.com/"
-  style = "default"
+  resourceurl ="http://pburq0mjh.bkt.clouddn.com/"
+  staticurl = "http://pbwlisdix.bkt.clouddn.com/"
   copyright = "&copy;2018 Yaichi"
   sidebarAbout = [
     "五年互联网产品设计经验",
@@ -22,16 +22,16 @@ googleAnalytics = ""
   # Nav links in the side bar
   [[params.navlinks]]
   name = "绘画"
-  url = "painting"
+  url = "painting/"
   home = true
 
   [[params.navlinks]]
   name = "视频"
-  url = "video"
+  url = "video/"
 
   [[params.navlinks]]
   name = "关于我"
-  url = "about"
+  url = "about/"
 
   [params.social]
   email         = "antsicy@126.com"

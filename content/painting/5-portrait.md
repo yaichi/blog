@@ -6,6 +6,5 @@ title = "Portrait"
 weight = 5
 +++
 
-![Portrait][1]
+{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/portrait.svg">}}
 
-[1]: http://pburq0mjh.bkt.clouddn.com/portrait.svg

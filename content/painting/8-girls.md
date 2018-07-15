@@ -6,6 +6,5 @@ title = "Girls"
 weight = 8
 +++
 
-![Girls][1]
+{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/girls.svg">}}
 
-[1]: http://pburq0mjh.bkt.clouddn.com/girls.svg

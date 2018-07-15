@@ -6,6 +6,5 @@ title = "日落"
 weight = 4
 +++
 
-![日落][1]
+{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/sunset.png">}}
 
-[1]: http://pburq0mjh.bkt.clouddn.com/sunset.png

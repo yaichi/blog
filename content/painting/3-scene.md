@@ -6,6 +6,5 @@ title = "风景"
 weight = 3
 +++
 
-![风景][1]
+{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/scene.png">}}
 
-[1]: http://pburq0mjh.bkt.clouddn.com/scene.png

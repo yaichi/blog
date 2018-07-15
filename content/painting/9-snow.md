@@ -6,6 +6,5 @@ title = "Snow"
 weight = 9
 +++
 
-![Snow][1]
+{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/snow.svg">}}
 
-[1]: http://pburq0mjh.bkt.clouddn.com/snow.svg

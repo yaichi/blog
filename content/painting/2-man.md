@@ -6,6 +6,4 @@ title = "Man"
 weight = 2
 +++
 
-![Man][1]
-
-[1]: http://pburq0mjh.bkt.clouddn.com/man.svg
+{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/man.svg">}}
