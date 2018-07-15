@@ -15,11 +15,11 @@
 {{ with .Site.Params.style }}
   <link href="{{.Site.Params.staticurl}}{{ printf "css/style.%s.css" }}" rel="stylesheet" id="theme-stylesheet">
 {{ else }}
-  <link href="{{.Site.Params.staticurl}}{{ "css/style.default.css" }}" rel="stylesheet" id="theme-stylesheet">
+  <link href="{{ "css/style.default.css" | absURL }}" rel="stylesheet" id="theme-stylesheet">
 {{ end }}
 
 <!-- Custom stylesheet - for your changes -->
-<link href="{{.Site.Params.staticurl}}{{ "css/custom.css" }}" rel="stylesheet">
+<link href="{{ "css/custom.css" | absURL }}" rel="stylesheet">
 <link rel="shortcut icon" href="{{.Site.Params.resourceurl}}{{ "favicon.png"}}">
 {{ if .RSSLink }}
   <link href="{{ .RSSLink }}" rel="alternate" type="application/rss+xml" title="{{ .Site.Title }}" />

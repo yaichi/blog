@@ -1,0 +1,14 @@
+{{$items := split (.Get "src") ","}}
+<div class="row justify-content-center">
+  <div class="col-md-8">
+    <div class="row">
+      {{ range $index, $element := $items }}
+        {{$result := split $element "|"}}
+      <a href="{{index $result 1}}?image={{$index}}" data-title="{{index $result 0}}" data-toggle="lightbox" data-gallery="gallery" class="col-sm-4">
+        <img src="{{index $result 1}}?image={{$index}}" class="img-fluid">
+        <p style="text-align:center;margin-top:16px">{{index $result 0}}</p>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</div>
