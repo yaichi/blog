@@ -29,3 +29,12 @@ echo -e "\033[0;32m恭喜宝宝，网站更新成功。\033[0m"
 echo
 # Come Back up to the Project Root
 cd ..
+echo
+echo -e "\033[0;32m 更新源码...\033[0m"
+echo
+git add .
+git commit -m 'update blog'
+git push origin master
+echo
+echo -e "\033[0;32m Done \033[0m"
+echo

@@ -21,6 +21,10 @@ googleAnalytics = ""
   description="擅长 B 端产品设计、项目管理，爱好阅读、音乐、绘画"
   # Nav links in the side bar
   [[params.navlinks]]
+  name = "工作项目"
+  url = "projects/"
+  
+  [[params.navlinks]]
   name = "绘画"
   url = "painting/"
   home = true
