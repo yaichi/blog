@@ -1,0 +1,10 @@
+/* your styles go here */
+.sidebar-heading +.sidebar-p{
+  margin-bottom: 6px;
+}
+.sidebar-menu li{
+  margin-bottom: 10px;
+}
+video{
+  max-width: 100%;
+}
