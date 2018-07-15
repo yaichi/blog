@@ -10,6 +10,7 @@ echo
 # Go To Public folder
 cd public
 # Add changes to git.
+git pull origin master
 git add .
 
 # Commit changes.
