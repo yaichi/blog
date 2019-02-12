@@ -25,9 +25,6 @@ echo -e "\033[0;32m2. 推送网站文件到 Github...\033[0m"
 echo
 git push origin master
 
-echo
-echo -e "\033[0;32m恭喜宝宝，网站更新成功。\033[0m"
-echo
 # Come Back up to the Project Root
 cd ..
 echo
@@ -37,6 +34,9 @@ git pull origin master
 git add .
 git commit -m 'update blog'
 git push origin master
+echo
+echo -e "\033[0;32m恭喜宝宝，网站即将更新成功...\033[0m"
+echo
 echo
 echo -e "\033[0;32m Done \033[0m"
 echo
