@@ -1,10 +1,10 @@
 +++
 draft = false
-image = "http://pburq0mjh.bkt.clouddn.com/girl.svg"
+image = "http://work.yaichi.xyz/girl.svg"
 showonlyimage = false
 title = "Girl"
 weight = 6
 +++
 
-{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/girl.svg">}}
+{{<lightbox src="http://work.yaichi.xyz/girl.svg">}}
 

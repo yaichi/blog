@@ -1,9 +1,9 @@
 +++
 draft = false
-image = "http://pburq0mjh.bkt.clouddn.com/universe-cup.png"
+image = "http://work.yaichi.xyz/universe-cup.png"
 showonlyimage = false
 title = "宇宙杯"
 weight = 1
 +++
 
-{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/universe-cup.png">}}
+{{<lightbox src="http://work.yaichi.xyz/universe-cup.png">}}

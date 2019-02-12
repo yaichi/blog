@@ -10,8 +10,8 @@ googleAnalytics = ""
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  resourceurl ="http://pburq0mjh.bkt.clouddn.com/"
-  staticurl = "http://pbwlisdix.bkt.clouddn.com/"
+  resourceurl ="http://work.yaichi.xyz/"
+  staticurl = "http://static.yaichi.xyz/"
   copyright = "&copy;2018 Yaichi"
   sidebarAbout = [
     "五年互联网产品设计经验",
@@ -39,4 +39,4 @@ googleAnalytics = ""
 
   [params.social]
   email         = "antsicy@126.com"
-  wechat         = "http://pburq0mjh.bkt.clouddn.com/wechat.png"
+  wechat         = "http://work.yaichi.xyz/wechat.png"

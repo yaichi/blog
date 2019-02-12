@@ -1,10 +1,10 @@
 +++
 draft = false
-image = "http://pburq0mjh.bkt.clouddn.com/scene.png"
+image = "http://work.yaichi.xyz/scene.png"
 showonlyimage = false
 title = "风景"
 weight = 3
 +++
 
-{{<lightbox src="http://pburq0mjh.bkt.clouddn.com/scene.png">}}
+{{<lightbox src="http://work.yaichi.xyz/scene.png">}}
 
