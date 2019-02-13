@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "https://work.yaichi.xyz/escape.PNG"
+image = "https://work.yaichi.xyz/escape-thumbnail.png"
 showonlyimage = false
 title = "Escape"
 weight = 1
