@@ -1,6 +1,6 @@
 +++
 draft = false
-image = "https://work.yaichi.xyz/sunset.png"
+image = "https://work.yaichi.xyz/sunset-thumbnail.png"
 showonlyimage = false
 title = "日落"
 weight = 4
