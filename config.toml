@@ -1,4 +1,4 @@
-baseurl = "http://yaichi.me/"
+baseurl = "https://yaichi.me/"
 title = "王丹"
 theme = "portfolio"
 languageCode = "zh-CN"
