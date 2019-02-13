@@ -2,7 +2,7 @@
 draft = false
 image = "https://work.yaichi.xyz/girl.PNG"
 showonlyimage = false
-title = "Portrait"
+title = "Girl"
 weight = 5
 +++
 
