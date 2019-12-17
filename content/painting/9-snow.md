@@ -1,10 +1,9 @@
 +++
 draft = false
-image = "http://work.yaichi.xyz/snow.svg"
+image = "https://work.yaichi.xyz/snow.svg"
 showonlyimage = false
 title = "Snow"
 weight = 9
 +++
 
-{{<lightbox src="http://work.yaichi.xyz/snow.svg">}}
-
+{{<lightbox src="https://work.yaichi.xyz/snow.svg">}}

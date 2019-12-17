@@ -1,10 +1,9 @@
 +++
 draft = false
-image = "http://work.yaichi.xyz/sunset.png"
+image = "https://work.yaichi.xyz/sunset-thumbnail.png"
 showonlyimage = false
 title = "日落"
 weight = 4
 +++
 
-{{<lightbox src="http://work.yaichi.xyz/sunset.png">}}
-
+{{<lightbox src="https://work.yaichi.xyz/sunset.png">}}
