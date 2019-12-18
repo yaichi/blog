@@ -6,4 +6,4 @@ title = "Girl2"
 weight = 1
 +++
 
-{{<lightbox src="https://work.yaichi.xyz/girl.PNG">}}
+{{<lightbox src="https://work.yaichi.xyz/girl2.PNG">}}
