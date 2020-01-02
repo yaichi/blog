@@ -13,6 +13,8 @@ googleAnalytics = ""
   resourceurl ="https://work.yaichi.xyz/"
   staticurl = "https://static.yaichi.xyz/"
   copyright = "&copy;2018 Yaichi"
+  reference = "沪ICP备19002772号"
+  referenceUrl = "http://www.beian.miit.gov.cn"
   sidebarAbout = [
     "五年互联网产品设计经验",
     "爱好阅读、音乐、绘画，现居上海"
